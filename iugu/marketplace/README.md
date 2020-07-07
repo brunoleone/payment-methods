@@ -1,6 +1,9 @@
 <!-- https://support.iugu.com/hc/pt-br/articles/201480389-Exemplos-de-fluxos-de-marketplace -->
 <!-- Implementação de marketplace através da api da Iugu -->
 
+<!-- https://support.iugu.com/hc/pt-br/articles/207497656-Problema-ao-cadastrar-os-dados-do-banco -->
+<!-- Implementação de conta bancária -->
+
 # Exemplos de fluxos de marketplace
 
 Negócios que atuam como intermediadores, em geral são caracterizados no modelo marketplace e seu fluxo de distribuição de receitas é complexo, pois envolvem no minímo 3 partes; o intermediador, o prestador e o cliente final. 
